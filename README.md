@@ -4,9 +4,9 @@ WooCommerce plugin for Storefront theme to remove the search box from the header
 ## Contents
 
 The Remove Storefront Header Search plugin includes the following files:
-* remove-storefront-header-search.php - The main plugin file.
-* README.md - This file.
-* LICENSE - The license file.
+* [remove-storefront-header-search.php](remove-storefront-header-search.php) - The main plugin file.
+* [README.md](README.md) - This file.
+* [LICENSE](LICENSE) - The license file.
 
 ## Features
 * Removal of the [Storefront](https://wordpress.org/themes/storefront/) search box located in the header.
