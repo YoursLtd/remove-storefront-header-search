@@ -2,7 +2,7 @@
 [WooCommerce](https://woocommerce.com) plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme to remove the search box from the header.
 
 ## Why?
-WooCommerce lacks a setting to disable the search bar on the Storefront theme.
+[WooCommerce](https://woocommerce.com) lacks a setting to disable the search bar on the [Storefront](https://wordpress.org/themes/storefront/) theme.
 
 ## Contents
 
