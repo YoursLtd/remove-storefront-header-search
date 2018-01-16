@@ -1,5 +1,5 @@
 # Remove Storefront Header Search
-WooCommerce plugin for Storefront theme to remove the search box from the header.
+[WooCommerce](https://woocommerce.com) plugin for Storefront theme to remove the search box from the header.
 
 ## Contents
 
@@ -12,7 +12,7 @@ The Remove Storefront Header Search plugin includes the following files:
 * Removal of the [Storefront](https://wordpress.org/themes/storefront/) search box located in the header.
 
 ## Installation
-The Remove Storefront Header Search plugin contents should be put in the [Wordpress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `remove-storefront-header-search`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
+The Remove Storefront Header Search plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `remove-storefront-header-search`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
 To disable and remove the Remove Storefront Header Search plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `remove-storefront-header-search` directory and all of it's contents.
