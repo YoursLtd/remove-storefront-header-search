@@ -25,7 +25,7 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 
 | Description  | Type | Reference |
 | ------------- | ------------- | ------------- |
-| Initial release  | Feature  | * |
+| **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/remove-storefront-header-search/releases/tag/v1.0) |
 
 ## Credits
 The Remove Storefront Header Search plugin was written by Anthony Iacono.
