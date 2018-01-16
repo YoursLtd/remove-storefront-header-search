@@ -20,6 +20,10 @@ To disable and remove the Remove Storefront Header Search plugin, simply follow 
 ## License
 Please review the [LICENSE](LICENSE) file located in the repo.
 
+## Changes
+### v1.0 n(__1/16/2018__)
+- Initial release.
+
 ## Credits
 The Remove Storefront Header Search plugin was written by Anthony Iacono.
 
