@@ -1,4 +1,4 @@
-# Remove Storefront Header Search
+# Remove Storefront Header Search [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [WooCommerce](https://woocommerce.com) plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme to remove the search box from the header.
 
 ## Why?
@@ -20,8 +20,8 @@ The Remove Storefront Header Search plugin contents should be put in the [WordPr
 ## Removal
 To disable and remove the Remove Storefront Header Search plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `remove-storefront-header-search` directory and all of its contents.
 
-## License
-Please review the [LICENSE](LICENSE) file located in the repo.
+## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+Please feel free to contribute by submitting pull requests for bug fixes and improvements. Thanks for your support!
 
 ## Changes
 ### v1.0 (__1/16/2018__)
@@ -30,11 +30,16 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 | ------------- | ------------- | ------------- |
 | **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/remove-storefront-header-search/releases/tag/v1.0) |
 
+## License [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-2.0/)
+Please review the [LICENSE](LICENSE) file located in the repo.
+
 ## Credits
 The Remove Storefront Header Search plugin was written by Anthony Iacono.
 
 ## Support
-For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
+[Join our Discord server](https://discord.gg/wkMbsn7) to access our community-based support. For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
 Copyright &copy; 2018 yours! Ltd
+
+[![forthebadge](http://forthebadge.com/images/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
