@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Remove Storefront Header Search
+Plugin URI: https://github.com/YoursLtd/remove-storefront-header-search
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: remove-storefront-header-search
 */
